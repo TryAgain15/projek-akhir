@@ -13,18 +13,35 @@
             <tr>
                 <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
                 <td style="width: 1000%;">
-                    <p>Nama :</p>
-                    <p>NIM:</p>
+                    <p>Nama : Nur Romadhoni Hidayat</p>
+                    <p>NIM : 202169040001</p>
                     <p>Tentang :</p>
                 </td>
             </tr>
             <tr>
-                <td style="text-align: center ;">Nur Romadhoni Hidayat</td>
+                <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
+                <td style="width: 1000%;">
+                    <p>Nama : Rahma Diva Resita Mutiara</p>
+                    <p>NIM : 202169040024</p>
+                    <p>Tentang :</p>
+                </td>
             </tr>
             <tr>
-                <td>202169040001</td>
+                <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
+                <td style="width: 1000%;">
+                    <p>Nama : Saidatul Bakdiah</p>
+                    <p>NIM : 202169040025</p>
+                    <p>Tentang :</p>
+                </td>
             </tr>
-
+            <tr>
+            <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
+                <td style="width: 1000%;">
+                    <p>Nama : Achmad Zakiyudin</p>
+                    <p>NIM : 202169040028</p>
+                    <p>Tentang :</p>
+                </td>
+            </tr>
         </table>
         </div>
     </body>
