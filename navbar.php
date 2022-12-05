@@ -13,15 +13,15 @@
 </head>
 <body>
     <head>
-        <div class="image">
-            
-        </div>
-    </head>
     <nav>
         <ul>
-            <li><a href="google.com">home</a></li> | 
-            <li><a href="fb.com">Profil</a></li>
+            <li><a href="home.php">Home</a></li> | 
+            <li><a href="profile.php">Profil</a></li>
         </ul>
     </nav>
+    </head>
+    <div class="image">
+            
+    </div>
 </body>
 </html>
