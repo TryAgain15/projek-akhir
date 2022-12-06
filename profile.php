@@ -8,7 +8,10 @@
     <link rel="stylesheet" href="stylep.css">
 </head>
 <body>
-    <div class="konten">
+    <?php   
+    include 'navbar.php'
+    ?>
+    <div class="container">
         <table>
             <tr>
                 <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
