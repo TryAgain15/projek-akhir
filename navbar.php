@@ -23,7 +23,7 @@
                         <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                         <ul class="right hide-on-med-and-down batastop">
                             <li><a href="home.php">Home</a></li>
-                            <li><a href="profile.php">Profile</a></li>
+                            <li><a href="profile.php">About Us</a></li>
                         </ul>
                     </div>
             </div>

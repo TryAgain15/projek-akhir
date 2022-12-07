@@ -21,7 +21,10 @@
 .cover{
     height: 20%;
 }
-
+.card-image img{
+    height: 400px;
+    width: 30px;
+}
 
 .katamutiara{
     /* background-color: blue; */
