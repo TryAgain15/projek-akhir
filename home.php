@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>home</title>
-    <link rel="stylesheet" href="mine.css">
+    <link rel="stylesheet" href="css/mine.css">
     <link rel="stylesheet" href="css/materialize.css">
 </head>
+<!-- <body background="image/ryunosuke-kikuno-FKqxZ58bVjU-unsplash.jpg" style="background-attachment: fixed; background-size: 100%;"> -->
 <body>
     <!-- Awal NAVBAR -->
     <?php

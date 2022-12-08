@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="css/materialize.css">
-    <link rel="stylesheet" href="mine.css">
+    <link rel="stylesheet" href="css/mine.css">
 </head>
 <body>
     <div class="container">
 
         <div class="row">
-            <div class="col s3 m3">
+            <div class="col s3 m3  z-depth-1">
                <div class="card">
                     <div class="card-image cover">
                     <img src="novel/1.jpg">
@@ -23,10 +23,11 @@
                         </div>
                     <div class="card-action">
                     <a href="novel/1.php">Sinopsis</a>
+                    <a href="https://tokopedia.com" style="padding-left: 61px;">Shop</a>
                 </div>
             </div>
 </div>
-<div class="col s3 m3">
+<div class="col s3 m3  z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/2.jpg">
@@ -40,28 +41,28 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/3.jpg">
           </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Summer In Seoul</p>
+          <p>Penulis : Illana Tan</p>
         </div>
         <div class="card-action">
           <a href="novel/3.php">Sinopsis</a>
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/4.jpg">
           </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Autumn In Paris</p>
+          <p>Penulis : Illana Tan</p>
         </div>
         <div class="card-action">
           <a href="novel/4.php">Sinopsis</a>
@@ -70,7 +71,7 @@
     </div>
 </div>
 <div class="row">
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/5.jpg">
@@ -84,7 +85,7 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/6.jpg">
@@ -98,28 +99,28 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/7.jpg">
           </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : ARTHA</p>
+          <p>Penulis : Bayu Permana</p>
         </div>
         <div class="card-action">
           <a href="novel/7.php">Sinopsis</a>
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/8.jpg">
           </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Friendshit</p>
+          <p>Penulis : Queen Nakey</p>
         </div>
         <div class="card-action">
           <a href="novel/8.php">Sinopsis</a>
@@ -129,7 +130,7 @@
   </div>
 
   <div class="row">
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/9.jpg">
@@ -143,7 +144,7 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/10.jpg">
@@ -157,28 +158,28 @@
         </div>
       </div>
     </div>
-    <div class="col 3 m3">
+    <div class="col 3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/11.jpg">
-          <span class="card-title">Card Title</span>
         </div>
         <div class="card-content">
-          <p></p>
+          <p>Judul : 5 cm</p>
+          <p>Penulis : Dhonny Dirgantoro</p>
         </div>
         <div class="card-action">
           <a href="novel/11.php">Sinopsis</a>
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/12.jpg">
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Bumi</p>
+          <p>Penulis : Tere Liye</p>
         </div>
         <div class="card-action">
           <a href="novel/12.php">Sinopsis</a>
@@ -188,7 +189,7 @@
   </div>
 
   <div class="row">
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/13.jpg">
@@ -202,7 +203,7 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/14.jpg">
@@ -217,28 +218,28 @@
       </div>
     </div>
 
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/15.jpg">
           </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Bulan</p>
+          <p>Penulis : Tere Liye</p>
         </div>
         <div class="card-action">
           <a href="novel/15.php">Sinopsis</a>
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/16.jpg">
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Matahari</p>
+          <p>Penulis : Tere Liye</p>
         </div>
         <div class="card-action">
           <a href="novel/16.php">Sinopsis</a>
@@ -247,7 +248,7 @@
     </div>
   </div>
     <div class="row">
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/17.jpg">
@@ -261,7 +262,7 @@
         </div>
       </div>
     </div>
-  <div class="col s3 m3">
+  <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/18.jpg">
@@ -275,28 +276,28 @@
         </div>
       </div>
     </div>    
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/19.jpg">
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Cantik Itu Luka</p>
+          <p>Penulis : Eka Kurniawan</p>
         </div>
         <div class="card-action">
           <a href="novel/19.php">Sinopsis</a>
         </div>
       </div>
     </div>
-    <div class="col s3 m3">
+    <div class="col s3 m3 z-depth-1">
       <div class="card">
         <div class="card-image">
           <img src="novel/20.jpg">
         </div>
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.
-          I am convenient because I require little markup to use effectively.</p>
+          <p>Judul : Rich People Problems</p>
+          <p>Penulis : Kevin Kwan</p>
         </div>
         <div class="card-action">
           <a href="novel/20.php">Sinopsis</a>
