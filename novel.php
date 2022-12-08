@@ -12,9 +12,9 @@
     <div class="container">
 
         <div class="row">
-            <div class="col s3 m3  z-depth-1">
+            <div class="col s3 m3 ">
                <div class="card">
-                    <div class="card-image cover">
+                    <div class="card-image z-depth-1">
                     <img src="novel/1.jpg">
                 </div>
                     <div class="card-content">
@@ -23,13 +23,13 @@
                         </div>
                     <div class="card-action">
                     <a href="novel/1.php">Sinopsis</a>
-                    <a href="https://tokopedia.com" style="padding-left: 61px;">Shop</a>
+                    <a href="https://tokopedia.com" style="padding-left: 61px; ">Shop</a>
                 </div>
             </div>
 </div>
-<div class="col s3 m3  z-depth-1">
-      <div class="card">
-        <div class="card-image">
+<div class="col s3 m3 ">
+      <div class="card ">
+        <div class="card-image z-depth-1">
           <img src="novel/2.jpg">
         </div>
         <div class="card-content">
@@ -41,12 +41,12 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
-      <div class="card">
-        <div class="card-image">
+    <div class="col s3 m3 ">
+      <div class="card ">
+        <div class="card-image  z-depth-1">
           <img src="novel/3.jpg">
           </div>
-        <div class="card-content">
+        <div class="card-content ">
           <p>Judul : Summer In Seoul</p>
           <p>Penulis : Illana Tan</p>
         </div>
@@ -55,9 +55,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/4.jpg">
           </div>
         <div class="card-content">
@@ -71,9 +71,9 @@
     </div>
 </div>
 <div class="row">
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/5.jpg">
           </div>
         <div class="card-content">
@@ -85,9 +85,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/6.jpg">
           </div>
         <div class="card-content">
@@ -99,9 +99,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/7.jpg">
           </div>
         <div class="card-content">
@@ -113,9 +113,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/8.jpg">
           </div>
         <div class="card-content">
@@ -130,9 +130,9 @@
   </div>
 
   <div class="row">
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/9.jpg">
         </div>
         <div class="card-content">
@@ -144,9 +144,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/10.jpg">
           </div>
         <div class="card-content">
@@ -158,9 +158,9 @@
         </div>
       </div>
     </div>
-    <div class="col 3 m3 z-depth-1">
+    <div class="col 3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/11.jpg">
         </div>
         <div class="card-content">
@@ -172,9 +172,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/12.jpg">
         </div>
         <div class="card-content">
@@ -189,9 +189,9 @@
   </div>
 
   <div class="row">
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/13.jpg">
         </div>
         <div class="card-content">
@@ -203,9 +203,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/14.jpg">
           </div>
         <div class="card-content">
@@ -218,9 +218,9 @@
       </div>
     </div>
 
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/15.jpg">
           </div>
         <div class="card-content">
@@ -232,9 +232,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/16.jpg">
         </div>
         <div class="card-content">
@@ -248,9 +248,9 @@
     </div>
   </div>
     <div class="row">
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/17.jpg">
         </div>
         <div class="card-content">
@@ -262,9 +262,9 @@
         </div>
       </div>
     </div>
-  <div class="col s3 m3 z-depth-1">
+  <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/18.jpg">
         </div>
         <div class="card-content">
@@ -276,9 +276,9 @@
         </div>
       </div>
     </div>    
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/19.jpg">
         </div>
         <div class="card-content">
@@ -290,9 +290,9 @@
         </div>
       </div>
     </div>
-    <div class="col s3 m3 z-depth-1">
+    <div class="col s3 m3 ">
       <div class="card">
-        <div class="card-image">
+        <div class="card-image z-depth-1">
           <img src="novel/20.jpg">
         </div>
         <div class="card-content">
