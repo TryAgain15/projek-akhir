@@ -1,7 +1,3 @@
-<?php
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,7 +20,7 @@
                         <ul class="right hide-on-med-and-down batastop">
                             <li><a href="home.php">Home</a></li>
                             <li><a href="profile.php">About Us</a></li>
-                            <li> <a href="rekomendasi.php">rekomendasi</a> </li>
+                            <li> <a href="rekomendasi.php">Rekomendasi</a> </li>
                         </ul>
                     </div>
             </div>

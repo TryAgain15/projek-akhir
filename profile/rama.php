@@ -18,10 +18,15 @@
             <p>NIM  : 202169040001</p>
             <p>Kata Mutiara : Semakin banyak bersyukur semakin banyak kebahagiaan yang bisa diraih</p>
             <br>
-            <button>Button</button>
-        <a href="#">Link Button</a>
-        <input class="tombol" type="submit" value="Submit Button">
-        <input class="tombol" type="reset" value="Reset Button">
+            <!-- <button>Button</button> -->
+        <!-- <a href="#">Link Button</a> -->
+        <a href="../profile.php">
+            <input class="tombol" type="submit" value="<- Back to Profile">
+        </a>
+        <a href="../home.php">
+            <input class="tombol" type="submit" value="Home">
+        </a>
+        <!-- <input class="tombol" type="reset" value="Reset Button"> -->
         </div>
     </div>       
 </body>

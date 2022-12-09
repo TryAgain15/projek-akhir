@@ -7,7 +7,7 @@
     <title>Card Design</title>
     <link rel="stylesheet" href="stylee.css">
 </head>
-<body>
+<body background="../image/book-stacks.jpg" style="background-size: 100%;">
     <div Class="container">
         <div class="data-profile">
             <img src="image/diva.jpg" class="foto">
@@ -15,6 +15,13 @@
                 <p>Nama : Rahma Diva Resita Mutiara</p>
                 <p>NIM  : 202169040024</p>
                 <p>Kata Mutiara : saya tau banyak yang tidak menyukai saya, Tapi apakah mereka penting?</p>
+                <br>
+                <a href="../profile.php">
+            <input class="tombol" type="submit" value="<- Back to Profile">
+        </a>
+        <a href="../home.php">
+            <input class="tombol" type="submit" value="Home">
+        </a>
         </div> 
     </div>       
 </body>

@@ -7,7 +7,7 @@
     <title>Card Design</title>
     <link rel="stylesheet" href="stylee.css">
 </head>
-<body>
+<body background="../image/book-stacks.jpg" style="background-size: 100%;">
     <div Class="container">
         <div class="data-profile">
             <img src="image/aa.png" class="foto">
@@ -15,7 +15,14 @@
                 <p>Nama : Achmad Zakiyudin</p>
                 <p>NIM  : 202169040028</p>
                 <p>Kata Mutiara : Kesuksesan bukanlah sebuah kebetulan. Ia adalah kerja keras, ketekunan, belajar, berkorban, dan yang paling penting, mencintai apa yang kamu lakukan.</p>
-        </div> 
+            <br>
+            <a href="../profile.php">
+            <input class="tombol" type="submit" value="<- Back to Profile">
+        </a>
+        <a href="../home.php">
+            <input class="tombol" type="submit" value="Home">
+        </a>
+            </div> 
     </div>       
 </body>
 </html>

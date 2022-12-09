@@ -7,7 +7,7 @@
     <title>Card Design</title>
     <link rel="stylesheet" href="stylee.css">
 </head>
-<body>
+<body background="../image/book-stacks.jpg" style="background-size: 100%;">
     <div Class="container">
         <div class="data-profile">
             <img src="image/bakdiah.jpg" class="foto">
@@ -15,6 +15,13 @@
                 <p>Nama : saidatul bakdia</p>
                 <p>NIM  : 202169040025</p>
                 <p>Kata Mutiara : suatu saat nanti bisa menjadi sugar aunty 💵💵💵</p>
+                <br>
+                <a href="../profile.php">
+            <input class="tombol" type="submit" value="<- Back to Profile">
+        </a>
+        <a href="../home.php">
+            <input class="tombol" type="submit" value="Home">
+        </a>
         </div> 
     </div>       
 </body>
