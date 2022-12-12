@@ -10,8 +10,8 @@
     height: 10% ; 
     background-size: 100%;
 }
-.bg{
-    /* background-image: url('../image/top-view-books-glasses.jpg'); */
+.background{
+    background-image: url('../image/bg.jpg');
     height: 300px;
     width: 100%;
 }

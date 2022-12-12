@@ -12,7 +12,7 @@
 <body>
     <!-- Awal NAVBAR -->
     <?php
-    include 'navbar.php'
+    include 'navbar-home.php'
     ?>
 
     <!-- Akhir NAVBAR -->

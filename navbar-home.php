@@ -16,21 +16,21 @@
                     <div class="container">
                         <img src="image/books.png" alt="logo" style="width: 50px; height: 50px; padding: 5px 5px 0px;" >
                         <a href="home.php" class="brand-logo">S-Novel</a>
-                        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                         <ul class="right hide-on-med-and-down batastop">
                             <li><a href="home.php">Home</a></li>
                             <li><a href="profile.php">About Us</a></li>
                             <li> <a href="novel.php">List Novel</a> </li>
                         </ul>
+                        <!-- <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a> -->
                     </div>
             </div>
             </div>
         </nav>
     <!-- Side Nav -->
-    <ul class="sidenav" id="mobile-demo">
+    <!-- <ul class="sidenav" id="mobile-demo"> -->
     <!-- <ul class="right hide-on-med-and-down batastop"> -->
-        <li><a href="home.php">Home</a></li>
-        <li><a href="profile.php">Profile</a></li>
-    </ul>
+        <!-- <li><a href="home.php">Home</a></li> -->
+        <!-- <li><a href="profile.php">Profile</a></li> -->
+    <!-- </ul> -->
 </body>
 </html>
