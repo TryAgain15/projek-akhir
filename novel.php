@@ -9,9 +9,14 @@
     <link rel="stylesheet" href="css/mine.css">
 </head>
 <body>
-    <div class="container">
+<?php
+    include 'navbar.php'
+?>
 
-        <div class="row">
+    <div class="container">
+      
+      <h3>List Semua Novel</h3>
+      <div class="row">
             <div class="col s3 m3 ">
                <div class="card">
                     <div class="card-image z-depth-1">

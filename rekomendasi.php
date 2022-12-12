@@ -10,9 +10,6 @@
 </head>
 <body>
 
-<?php
-    include 'navbar.php'
-?>
 
 <div class="container">
               <div class="col s5 m3">

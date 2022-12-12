@@ -11,8 +11,8 @@
     background-size: 100%;
 }
 .bg{
-    background-image: url('../image/book-stacks.jpg');
-    height: 1000px;
+    /* background-image: url('../image/top-view-books-glasses.jpg'); */
+    height: 300px;
     width: 100%;
 }
 .cover{

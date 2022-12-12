@@ -14,6 +14,7 @@
     <?php
     include 'navbar.php'
     ?>
+
     <!-- Akhir NAVBAR -->
 
     
@@ -23,18 +24,18 @@
 
 
     <!-- Awal Konten Header -->
-    <div class="konten">
-        <p>REKOMENDASI NOVEL</p>
-    </div>
     <div class="katamutiara z-depth-3 lightblue ">
-    <p>" Jangan Malas Membaca Walau Hanya Sebatas Novel "</p>
+        <p>" Jangan Malas Membaca Walau Hanya Sebatas Novel "</p>
+    </div>
+    <div class="container">
+        <h3>PALING POPULER</h3>
     </div>
     <!-- Akhir Konten Header -->
 
 
     <!-- Awal Isi Konten -->
 <?php
-include 'novel.php';
+include 'rekomendasi.php';
 ?>
     <!-- Akhir Isi Konten -->
 </body>
