@@ -15,8 +15,8 @@
                 <div class="nav-wrapper brown">
                     <div class="container">
                         <img src="image/books.png" alt="logo" style="width: 50px; height: 50px; padding: 5px 5px 0px;" >
-                        <a href="home.php" class="brand-logo">S-Novel</a>
-                        <ul class="right hide-on-med-and-down batastop">
+                        <a href="home.php" class="brand-logo">W-Novel</a>
+                        <ul class="right hide-on-med-and-down">
                             <li><a href="home.php">Home</a></li>
                             <li><a href="profile.php">About Us</a></li>
                             <li> <a href="novel.php">List Novel</a> </li>

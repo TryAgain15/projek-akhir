@@ -16,7 +16,12 @@
     ?>
 
     <!-- Akhir NAVBAR -->
-
+<div class="sambutan">
+    <div class="teks">
+    Selamat Datang di 
+Website W-Novel
+    </div>
+</div>
     
     <!-- Awal Jumbotron -->
     
