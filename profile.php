@@ -9,65 +9,9 @@
     <link rel="stylesheet" href="css/mine.css">
 </head>
 <body>
-<<<<<<< HEAD
-    <?php
-    include ..navbar.php
-    ?>
-    <div class="konten">
-        <table>
-            <tr>
-                <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
-                <td style="width: 1000%;">
-               Tentang :
-                </td>
-            </tr>
-            <tr>
-                <td class="center mini">
-                Nur Romadhoni Hidayat
-                202169040001
-                </td>
-            </tr>
-            <tr></tr>
-            <tr>
-                <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
-                <td style="width: 1000%;">
-               Tentang :
-                </td>
-            </tr>
-            <tr>
-                <td class="center mini">
-                Rahma Diva Resita Mutiara
-                202169040024
-                </td>
-            </tr>
-            <tr>
-                <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
-                <td style="width: 1000%;">
-               Tentang :
-                </td>
-            </tr>
-            <tr>
-                <td class="center mini">
-                Saidatul Bakdiyah
-                202169040025
-                </td>
-            </tr>
-            <tr>
-                <td><img src="image/Cara-Mengunci-Foto-Profil-FB.png" alt=""></td>
-                <td style="width: 1000%;">
-               Tentang :
-                </td>
-            </tr>
-            <tr>
-                <td class="center mini">
-                Achmad Zakiyudin
-                202169040028
-                </td>
-            </tr>
-        </table>
-=======
+
     <?php   
-    include 'navbar.php'
+    include "navbar.php";
     ?>
     <div class="container">
    <div class="row">
@@ -75,7 +19,7 @@
       <div class="card">
         <div class="card-image">
           <img src="image/rama.jpg" style="height: 250px; width: 25s0px;;">
->>>>>>> bc66b3b535d68dade08fd6db48820c09f5ad9239
+
         </div>
         <div class="card-content">
           <p>Nama : Nur Romadhoni Hidayat</p>
