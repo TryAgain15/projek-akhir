@@ -5,10 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Selamat Datang!</title>
-    <link rel="stylesheet" href="css/mine.css">
     <link rel="stylesheet" href="css/materialize.css">
+    <!-- MINE -->
+    <link rel="stylesheet" href="css/mine.css">
+    <!-- Mine End -->
+
 </head>
-<!-- <body background="image/ryunosuke-kikuno-FKqxZ58bVjU-unsplash.jpg" style="background-attachment: fixed; background-size: 100%;"> -->
 <body>
     <!-- Awal NAVBAR -->
     <?php
@@ -18,8 +20,8 @@
     <!-- Akhir NAVBAR -->
 <div class="sambutan">
     <div class="teks">
-    Selamat Datang di 
-Website W-Novel
+    <p>Selamat Datang di 
+Website W-Novel</p>
     </div>
 </div>
     
@@ -36,6 +38,15 @@ Website W-Novel
         <h3>PALING POPULER</h3>
     </div>
     <!-- Akhir Konten Header -->
+    
+    
+    <!-- Bookmark  -->
+    <div class="col m4 center">
+        <img src="image/a1.png" alt="1" class="mark">
+    </div>
+
+
+    <!-- Akhir Bookmark -->
 
 
     <!-- Awal Isi Konten -->
