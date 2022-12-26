@@ -29,7 +29,12 @@ Website W-Novel</p>
     <!-- Akhir Jumbotron -->
 
     <!-- Bookmark  -->
-    <div class="row batasan">
+    <div class="center batasan">
+        <P style="font-size: 50px;">
+            MENGAPA HARUS PILIH KAMI?
+        </P>
+    </div>
+    <div class="row">
     <div class="col s4 center batas ">
         <img src="image/a1.png" alt="1" >
     </div>
@@ -39,9 +44,7 @@ Website W-Novel</p>
     <div class="col s4 center batas ">
         <img src="image/a3.png" alt="1" >
     </div>
-    </div>
-
-    <div class="row">
+    
     <div class="col m4 center tek">
     Kelengkapan Buku Rekomendasi <br> Novel dengan Judul yang <br> Menarik dari berbagai genre
     </div>
@@ -69,8 +72,8 @@ include 'rekomendasi.php';
     <!-- Akhir Isi Konten -->
 
     <!-- FOOTER -->
-    <footer class="page-footer">
-          <div class="container">
+    <footer class="page-footer brown">
+          <div class="container ">
             <div class="row">
               <div class="col l6 s12 ">
                 <h5 class="white-text">Tentang W-Novel</h5>

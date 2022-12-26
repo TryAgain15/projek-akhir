@@ -43,15 +43,28 @@
 
   <div class="col s5 m3 pad">
                 <div class="card horizontal">
-                    <div class="card-image z-depth-1">
-                        <img src="novel/1.jpg">
+                    <div class="card-image">
+                    <img src="novel/20.jpg" style="margin-top: 15%; padding-left: 10%;">
                     </div>
                     <div class="card-stacked">
                         <div class="card-content">
-                            <p>I am a very simple card. I am good at containing small bits of information.</p>
-                        </div>
-                        <div class="card-action">
-                            <a href="#">This is a link</a>
+                        <table>
+                        <tr>
+                        <td>
+                            <h4>JUDUL BUKU : Rich People Problems</h4>
+                        </td>    
+                    </tr>
+                    <tr>
+                        <td>
+                            <h4>PENULIS : Kevin Kwan</h4>
+                        </td>
+                    </tr>    
+                    </table>
+                        <h5>SINOPSIS : </h5>
+                        <p>Rich People Problems akan mengisahkan tentang keluarga Shang-Young yang berkumpul dari seluruh penjuru dunia, karena keadaan Su Yi sekaran. Mereka semua seolah datang untuk merawat sang nenek, tetapi sebetulnya hanya ingin memperebutkan harta warisan yang dimiliki Su Yi. Sementara keluarga ribut memperebutkan warisan, fokus Astrid Leong berada di permasalahan yang berbeda. Astrid jatuh cinta kepada kekasih lamanya, Charlie Wu, tetapi hubungan mereka diganggu oleh mantan istri Charlie yang bertekad menghancurkan hubungan mereka serta reputasi Astrid. Sementara itu, Kitty Pong yang menikah dengan . . . <a href="novel/20.php">Lanjutkan</a></p>
+                    </div>
+                        <div class="card-action right-align">
+                            <a href="#">Shop</a>
                         </div>
         </div>
     </div>
