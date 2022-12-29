@@ -7,9 +7,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="15.jpg" alt="Bulan">
-    <h5>Bulan</h5>
-    <h6>Tere Liye</h6>
+    <h1 class="heading">
+        <span>b</span>
+        <span>o</span>
+        <span>o</span>
+        <span>k</span>
+        <span class="space"></span>
+        <span>n</span>
+        <span>o</span>
+        <span>w</span>
+    </h1>
+</div>
+<div class="foto">
+<img src="15.jpg" alt="Bulan">
+</div>
+    <h4>Bulan</h4>
+    <h4>Tere Liye</h4>
     <p>Sinopsis : Buku Novel Bulan karya Tere Liye ini merupakan buku kedua dari serial novel Bumi. Jika di novel Bumi menceritakan petualangan di klan Bulan, maka novel Bulan ini menceritakan petualangan di klan Matahari.
 
         Masih tentang kisah petualangan tiga remaja tangguh Raib, Seli, dan Ali. Namun kali ini ada tambahan tokoh yakni ILY dan tokoh lainnya. Ily merupakan putra sulung dari Ilo, ily lulusan akademi klan bulan dengan postur tubuh gagah dan sangat disiplin. Wajahnya amat tampan, dengan bola mata hitam. Ily murah  senyum dan dalam senyumnya itu ada lesung pipi yang membuat ily terlihat manis.

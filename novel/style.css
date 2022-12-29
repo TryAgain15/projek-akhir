@@ -1,0 +1,43 @@
+.foto {
+  flex: 1 1 40rem;
+  text-align: center;
+}
+.foto img {
+  width: 50%;
+}
+.container {
+  background-image: url(walpep.jpg);
+  margin: auto;
+  /* width: 50%; */
+
+  color: white;
+  font-size: large;
+}
+body h4 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: rgb(250, 251, 252);
+}
+body p {
+  font-size: medium;
+  text-align: left;
+}
+.heading {
+  text-align: center;
+  padding: 2.5rem 0;
+}
+.heading span {
+  font-size: 3.5rem;
+  background: rgb(125, 138, 150);
+  color: var(--orange);
+  border-radius: 0.5rem;
+  padding: 0.2rem 1rem;
+}
+.heading span.space {
+  background: none;
+}
+.tengah {
+  display: flex;
+  justify-content: center;
+}

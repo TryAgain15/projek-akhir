@@ -7,9 +7,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <h1 class="heading">
+        <span>b</span>
+        <span>o</span>
+        <span>o</span>
+        <span>k</span>
+        <span class="space"></span>
+        <span>n</span>
+        <span>o</span>
+        <span>w</span>
+    </h1>
+</div>
+<div class="foto">
     <img src="18.jpg" alt="Bintang">
-    <h5>Bintang </h5>
-    <h6>Tere Liye</h6>
+</div>
+    <h4>Bintang </h4>
+    <h4>Tere Liye</h4>
     <p>Sinopsis : Raib, Ali, dan Seli mengikuti pelajaran biologi seperti biasanya. Ali yang genius menjawab pertanyaan dari pak guru tentang bagian membrane sel, tetapi jawabannya ternyata salah. Teman-temannya menertawakan ekspresi Ali yang mati gaya.
 
         Guru mereka bernama Pak Gun memberikan pembelajaran dengan metode yang menyenangkan dan modern. Tentu saja membuat Raib betah dengan mata pelajaran biologi. Namun Ali tetap gelisah sepanjang penjelasan dari guru.

@@ -7,9 +7,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="book" id="book">
+
+        <h1 class="heading">
+            <span>b</span>
+            <span>o</span>
+            <span>o</span>
+            <span>k</span>
+            <span class="space"></span>
+            <span>n</span>
+            <span>o</span>
+            <span>w</span>
+        </h1>
+    </div>
+    <div class="foto">
     <img src="9.jpg" alt="laut bercerita">
-    <h5>Laut Bercerita</h5>
-    <h6>Leila Salikha Chudori</h6>
+</div>
+    <h4>Laut Bercerita</h4>
+    <h4>Leila Salikha Chudori</h4>
     <p>Sinopsis : menceritakan terkait perilaku kekejaman dan kebengisan yang dirasakan oleh kelompok aktivis mahasiswa di masa Orde Baru. Tidak hanya itu, novel ini pun merenungkan kembali akan hilangnya 13 aktivis, bahkan sampai saat ini belum juga ada yang mendapatkan petunjuknya.
 
         Cerita dalam novel Laut Bercerita terbagi menjadi dua bagian dengan jarak waktu yang jauh berbeda. Adapun bagian pertama diceritakan melalui sudut pandang tokoh bernama Biru Laut beserta para kawan sesama aktivisnya seraya menyelesaikan visi atau tujuan mereka. Sementara pada bagian kedua, kisahnya diambil dari sudut pandang Asmara Jati, adik dari Laut yang mempunyai tujuan atau visi yang cenderung berlainan dengan Laut.</p>

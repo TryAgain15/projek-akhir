@@ -7,9 +7,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="book" id="book">
+        
+        <h1 class="heading">
+            <span>b</span>
+            <span>o</span>
+            <span>o</span>
+            <span>k</span>
+            <span class="space"></span>
+            <span>n</span>
+            <span>o</span>
+            <span>w</span>
+        </h1>
+    </div>
+    <div class="foto">
     <img src="7.jpg" alt="artha">
-    <h5>ARTHA</h5>
-    <h6>Bayu Permana</h6>
+</div>
+    <h4>ARTHA</h4>
+    <h4>Bayu Permana</h4>
     <p>Sinopsis : Kalau kata Agatha, Arkan itu Cabe-Man. Cowok dengan mulut sepedas cabai, sangat pintar menari serta memiliki fisik yang menawan, setengah cantik dan setengah ganteng.
 
         Agatha menjuluki dirinya sendiri Wonder Woman, yang akan selalu kuat menghadapi tiap goresan takdir yang terjadi.

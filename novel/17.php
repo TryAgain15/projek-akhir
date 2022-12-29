@@ -7,16 +7,29 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="17.jpg" alt="Pergi">
-    <h5>Pergi</h5>
-    <h6>Tere Liye</h6>
-    <p>Sinopsis :Sebuah kisah tentang menemukan tujuan, ke mana hendak pergi, melalui kenangan demi kenangan masa lalu, pertarungan hidup-mati, untuk memutuskan ke mana langkah kaki akan dibawa.
+    <h1 class="heading">
+        <span>b</span>
+        <span>o</span>
+        <span>o</span>
+        <span>k</span>
+        <span class="space"></span>
+        <span>n</span>
+        <span>o</span>
+        <span>w</span>
+    </h1>
+</div>
+<div class="foto">
+<img src="17.jpg" alt="Pergi">
+</div>
+    <h4>Pergi</h4>
+    <h4>Tere Liye</h4>
+    <p>Sinopsis :  Sebuah kisah tentang menemukan tujuan, ke mana hendak pergi, melalui kenangan demi kenangan masa lalu, pertarungan hidup-mati, untuk memutuskan ke mana langkah kaki akan dibawa.
 
         Kata “PERGI” dikatakan jika saah seorang akan menuju ke suatu tempat, atau bisa jadi menjadi menjadi suatu tujuan hidup seseorang. Menetukan akan kemana setelah ini itu tidaklah mudah, apalagi itu berhubungan dengan hidup pribadi. prosesnya tidak lah sesingkat ketika membuat status social media kalian.
         
         Yah cerita dalam novel ini tentang Bujang, ya tokoh yang sama di novel PULANG dengan pengarang yang sama yaitu Tere Liye. Berkisah tentang Bujang yang sibuk menjadi pentolan keluarga Tong. Keluarga Tong adalah salah satu dari shadow economy. Shadow economy sendiri dibagi beberapa keluarga dengan daerah – daerah tersendiri. Terlalu rumit urusan keluarga shadow economy tersebut.
         
-        Kehidupan bujang setelah ditinggal oleh orang – orang terdekat nya seperti mamak, Tauke besar, dan beberapa guru yang mengajarinya. Bujang tinggal tetap di markas keluarga tong di ibu kota. Kali ini Bujang telah memiliki banyak rekan dan beberapa rekan lamanya yang ada di novel sebelumnya. Di cerita ini Bujang bukanlah menjadi tukang pukul nomor satu di keluarga tong, tetapi juga tetap menjadi keluarga tong.
+        Kehidupan bujang setelah ditinggal oleh orang orang terdekat nya seperti mamak, Tauke besar, dan beberapa guru yang mengajarinya. Bujang tinggal tetap di markas keluarga tong di ibu kota. Kali ini Bujang telah memiliki banyak rekan dan beberapa rekan lamanya yang ada di novel sebelumnya. Di cerita ini Bujang bukanlah menjadi tukang pukul nomor satu di keluarga tong, tetapi juga tetap menjadi keluarga tong.
         
         Bujang bekerja sama dengan kepala tukang pukul keluarga tong yaitu Togar dan orang yang ada di novel sebelumnya yaitu Parwez untuk membawa keluarga Tong menjadi lebih besar dan berkembang kearah yang lebih baik.
         

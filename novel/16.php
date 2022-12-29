@@ -7,9 +7,22 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img src="16.jpg" alt="Matahari">
-    <h5>Matahari</h5>
-    <h6>Tere Liye</h6>
+    <h1 class="heading">
+        <span>b</span>
+        <span>o</span>
+        <span>o</span>
+        <span>k</span>
+        <span class="space"></span>
+        <span>n</span>
+        <span>o</span>
+        <span>w</span>
+    </h1>
+</div>
+<div class="foto">
+<img src="16.jpg" alt="Matahari">
+</div>
+    <h4>Matahari</h4>
+    <h4>Tere Liye</h4>
     <p>Sinopsis :Raib, Ali, dan Seli dirundung duka atas tewasnya Ily, sahabat mereka, pada pertarungan di Klan Matahari. Tak hanya mereka, para kesatria Klan Bulan juga merasakan hal sama, sampai membuat Miss Selena tak bisa kembali ke Klan Bumi.
 
         Kepulangan mereka ke Klan Bumi disambut dengan tugas sebagaimana anak sekolah lainnya. Bahkan, Ali mendadak populer menjadi bintang lapangan pada pertandingan basket antar sekolah yang dicurigai Raib berbuat curang menyalahgunakan hasil eksperimen. Hingga babak final, tindakan tak sportif lawan tanding basket tim sekolah mereka memicu kemarahan Ali sampai hampir merubahnya jadi beruang (bisa jadi ini bentuk kekuatan Ali)
