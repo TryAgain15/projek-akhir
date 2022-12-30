@@ -4,26 +4,54 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>home</title>
+    <link rel="stylesheet" href="css/materialize.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <h1 class="heading">
-        <span>b</span>
-        <span>o</span>
-        <span>o</span>
-        <span>k</span>
-        <span class="space"></span>
-        <span>n</span>
-        <span>o</span>
-        <span>w</span>
-    </h1>
+<body background="walpep.jpg">
+    <!-- <body> -->
+<?php
+include 'navbar.php';
+?>
+    <div class="container">
+        <div class="book" id="book">
+            <h1 class="heading">
+            <div class="row">
+                <div class="col s2 center-align">
+            <a href="../novel.php" class="waves-effect waves-light btn brown"><- Back</a>
+            </div>
+        </div>
+            <span>B</span>
+            <span>o</span>
+            <span>o</span>
+            <span>k</span>
+            <span class="space"></span>
+            <span>N</span>
+            <span>o</span>
+            <span>w</span>
+            <span class="space"></span>
+            <span>!</span>
+            
+        </h1>
+    </div>
+    <div class="row">
+    <div class="col m3">
+    <div class="foto ">
+<img src="16.jpg" alt="Matahari" style=" -webkit-filter: drop-shadow(5px 5px 5px #222);filter:drop-shadow(30px 30px 20px #222); height: 300px; width: 200px;">
 </div>
-<div class="foto">
-<img src="16.jpg" alt="Matahari">
+<br>    
+<h4>Matahari</h4>
+    <p></p>
+    <h4>Penulis     : Tere Liye</h4>
+    <br>
+    <div class="center">
+    <a href="https://shopee.co.id/Matahari--Novel--i.285806529.14064920491?gclid=EAIaIQobChMIoPjpyMnz-wIVfJVLBR144AoiEAQYASABEgLpXfD_BwE" class="waves-effect waves-light btn green">Shop</a>    
+    </div>
+    <br><br>
+    
 </div>
-    <h4>Matahari</h4>
-    <h4>Tere Liye</h4>
-    <p>Sinopsis :Raib, Ali, dan Seli dirundung duka atas tewasnya Ily, sahabat mereka, pada pertarungan di Klan Matahari. Tak hanya mereka, para kesatria Klan Bulan juga merasakan hal sama, sampai membuat Miss Selena tak bisa kembali ke Klan Bumi.
+<div class="col m8">
+    <h3> Sinopsis :</h3>
+    <p>Raib, Ali, dan Seli dirundung duka atas tewasnya Ily, sahabat mereka, pada pertarungan di Klan Matahari. Tak hanya mereka, para kesatria Klan Bulan juga merasakan hal sama, sampai membuat Miss Selena tak bisa kembali ke Klan Bumi.
 
         Kepulangan mereka ke Klan Bumi disambut dengan tugas sebagaimana anak sekolah lainnya. Bahkan, Ali mendadak populer menjadi bintang lapangan pada pertandingan basket antar sekolah yang dicurigai Raib berbuat curang menyalahgunakan hasil eksperimen. Hingga babak final, tindakan tak sportif lawan tanding basket tim sekolah mereka memicu kemarahan Ali sampai hampir merubahnya jadi beruang (bisa jadi ini bentuk kekuatan Ali)
         
@@ -58,5 +86,8 @@
         Intrik demi kepentingan politik. Faar menangani secara khusus Sekretaris Dewan Kota. Perpisahan terjadi, ketika Buku Kehidupan terbuka, menjadi tujuan tiga sahabat petualang menuju para pemilik kekuatan di klan permukaan.
         
         Misi mereka berlanjut untuk mencari bantuan menghadapi armada tempur Klan Bintang. Petualangan Raib, Ali, dan Seli berakhir di Klan Bintang. Selanjutnya, perang dunia paralel ada di depan mata. </p>
+        </div>
+    </div>
+    </div>
 </body>
 </html>
