@@ -63,12 +63,18 @@ Website W-Novel</p>
     </div>
     <div class="container">
         <h3>PALING POPULER</h3>
+        
+        <!-- Akhir Konten Header -->
+        <!-- Awal Isi Konten -->
     </div>
-    <!-- Akhir Konten Header -->
-    <!-- Awal Isi Konten -->
-<?php
+    <?php
 include 'rekomendasi.php';
 ?>
+<div class="row">
+    <div class="col m5 right">
+    <a class="waves-effect waves-light btn blue ">Tampilkan Semua Buku</a>    
+    </div>
+</div>
     <!-- Akhir Isi Konten -->
 
     <!-- FOOTER -->
