@@ -5,7 +5,9 @@
 .foto img {
   width: 50%;
 }
-
+body {
+  color: white;
+}
 body h4 {
   text-align: center;
   margin-top: 10px;

@@ -14,7 +14,7 @@
             <nav>
                 <div class="nav-wrapper brown">
                     <div class="container">
-                        <!-- <img src="books.png" alt="logo" style="width: 50px; height: 50px; padding: 5px 5px 0px;" > -->
+                        <img src="books.png" alt="logo" style="width: 50px; height: 50px; padding: 5px 5px 0px;" >
                         <a href="../home.php" class="brand-logo">W-Novel</a>
                         <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
                         <ul class="right hide-on-med-and-down">
