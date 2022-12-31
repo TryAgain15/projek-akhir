@@ -72,14 +72,14 @@ include 'rekomendasi.php';
 ?>
 <div class="row">
     <div class="col m5 right">
-    <a class="waves-effect waves-light btn blue ">Tampilkan Semua Buku</a>    
+    <a href="novel.php" class="waves-effect waves-light btn blue ">Tampilkan Semua Novel</a>    
     </div>
 </div>
     <!-- Akhir Isi Konten -->
 
     <!-- FOOTER -->
     <footer class="page-footer brown">
-          <div class="container ">
+          <div class="container">
             <div class="row">
               <div class="col l6 s12 ">
                 <h5 class="white-text">Tentang W-Novel</h5>
