@@ -1,3 +1,9 @@
+<?php
+include 'proses/koneksi.php';
+$tgl=date('Y-m-d');
+session_start();
+if(isset($_SESSION['sesi'])){
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,6 +28,7 @@
     <div class="teks">
     <p>Selamat Datang di 
 Website W-Novel</p>
+
     </div>
 </div>
     
@@ -97,5 +104,17 @@ include 'rekomendasi.php';
           </div>
         </footer>
     <!-- END FOOTER -->
+    
 </body>
+
+<?php
+}
+else {
+    echo "<script>
+        alert('Anda Harus Login Dahulu!');
+    </script>";
+    header("location:login.php?pesan=belum_login");
+}
+
+?>
 </html>
