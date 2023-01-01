@@ -1,9 +1,4 @@
-<?php
-include 'proses/koneksi.php';
-$tgl=date('Y-m-d');
-session_start();
-if(isset($_SESSION['sesi'])){
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,14 +102,4 @@ include 'rekomendasi.php';
     
 </body>
 
-<?php
-}
-else {
-    echo "<script>
-        alert('Anda Harus Login Dahulu!');
-    </script>";
-    header("location:login.php?pesan=belum_login");
-}
-
-?>
 </html>

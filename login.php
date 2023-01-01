@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Membuat Login Dengan PHP dan MySQLi - WWW.MALASNGODING.COM</title>
-	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+	<link rel="stylesheet" href="css/materialize.min.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -26,6 +26,8 @@
 			echo "Anda telah berhasil logout";
 		}else if($_GET['pesan'] == "belum_login"){
 			echo "Anda harus login terlebih dahulu";
+		}else if($_GET['pesan'] == "terdaftar"){
+			echo "Akun anda sudah terdaftar. Mohon untuk masuk dengan akun yang sudah didaftarkan !";
 		}
 	}
 	?>
@@ -46,7 +48,9 @@
 			<tr>
 				<td></td>
 				<td></td>
-				<td><input type="submit" value="LOGIN" name="submit" id="submit"></td>
+				<td><input type="submit" class="waves-effect waves-light btn" value="LOGIN" name="submit" id="submit">
+				<a href="daftar.php" class="waves-effect waves-light btn">Buat Akun</a>
+				</td>
 			</tr>
 		</table>			
 	</form>
