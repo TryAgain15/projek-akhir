@@ -26,6 +26,7 @@ if(isset($_SESSION['sesi'])){
                             <li><a href="home.php">Home</a></li>
                             <li><a href="profile.php">About Us</a></li>
                             <li> <a href="novel.php">List Novel</a> </li>
+                            <li><a href="proses/logout.php">Logout</a></li>
                         </ul>
                         <!-- <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a> -->
                     </div>

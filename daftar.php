@@ -37,7 +37,9 @@ include 'proses/koneksi.php';
                     <div class="input-field">
                         <label for="password">Password </label>
                         <input type="password" name="password" id="password" >
-                        <button type="submit" name="daftar" id="daftar" class="btn waves-effect waves-light">Daftar</button>
+
+                        <button type="submit" name="daftar" id="daftar" class="btn waves-effect waves-light">Daftarkan Akun</button>
+                        <a href="login.php" class="waves-effect waves-light btn">Login dengan Akun yang Sudah Ada</a>
                     </div>
                     </div>
                   </form>
