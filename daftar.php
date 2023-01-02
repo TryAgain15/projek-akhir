@@ -8,19 +8,23 @@ include 'proses/koneksi.php';
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
-
+<title>Daftarkan Akun</title>
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-      <link rel="stylesheet" href="css/mine.css">
+      <link rel="stylesheet" href="css/home.css">
 </head>
 <body>
     
-        <div class="row">
-            <div class="col s12 m4 offset-m4">
-                <div class="card-action brown white-text">
-                    <h3 align="center">Buat Akun</h3>
-                </div>
+    
+<div class="center">
+	<!-- cek pesan notifikasi -->
+	<div class="container">
+    <br>
+	
+    <div class="z-depth-1 lighten-4 row" style="display: inline-block; padding: 32px 48px 0px 48px; border: 1px solid #EEE;background-color: rgb(255,255,255,0.8); border-radius:5%;">
+      <h2 class="black-text">Buat Akun</h2>
+      <img src="image/daftar.png" alt="daftar" style="height: 400px; width:400px;">  
             
                 <form action="proses/prosesdaftar.php" method="post">
                     <!-- <div class="card-content"> -->
@@ -37,9 +41,9 @@ include 'proses/koneksi.php';
                     <div class="input-field">
                         <label for="password">Password </label>
                         <input type="password" name="password" id="password" >
-
+<br><br><br><br>
                         <button type="submit" name="daftar" id="daftar" class="btn waves-effect waves-light">Daftarkan Akun</button>
-                        <a href="login.php" class="waves-effect waves-light btn">Login dengan Akun yang Sudah Ada</a>
+                <br> <br><br>        <a href="login.php">Sudah Memiliki Akun?</a> <br> <br>
                     </div>
                     </div>
                   </form>
