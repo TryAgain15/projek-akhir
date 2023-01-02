@@ -21,6 +21,7 @@
                             <li><a href="../home.php">Home</a></li>
                             <li><a href="../profile.php">About Us</a></li>
                             <li> <a href="../novel.php">List Novel</a> </li>
+                            <li><a href="../proses/logout.php">Logout</a></li>
                         </ul>
                     </div>
             </div>
