@@ -15,7 +15,7 @@
               <div class="col s5 m3">
                 <div class="card horizontal">
                     <div class="card-image ">
-                        <img src="novel/1.jpg" style="margin-top: 15%; padding-left: 10%;">
+                        <img src="novel/17.jpg" style="margin-top: 15%; padding-left: 10%;">
                     </div>
                     <div class="card-stacked">
                         <div class="card-content">

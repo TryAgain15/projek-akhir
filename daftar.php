@@ -29,7 +29,7 @@ include 'proses/koneksi.php';
                 <form action="proses/prosesdaftar.php" method="post">
                     <!-- <div class="card-content"> -->
                     <div class="input-field">
-                      <input type="text" class="validate" name="username" id="username" data-length="30">
+                      <input type="text" name="username" id="username" data-length="30">
                       <label for="nama">Nama Lengkap</label>
                     </div>
 
